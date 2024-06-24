@@ -15,6 +15,8 @@ The following files are all files of a single visualization chart, which can be 
 4. Relation.py: relation chart.
 5. TimeLinePie.py: Timeline Pie Chart
 6. WordCloud.py: Word cloud chart.
+
+
 Chart: This folder is used to store the HTML source code of the diagram that is drawn.
 
 # Chinese
@@ -33,4 +35,6 @@ ConformAllChart：该文件是数据可视化的主要文件，将所有的图�
 4. Relation.py： 关系图。
 5. TimeLinePie.py： 时间线饼图。
 6. WordCloud.py： 词云图。
+
+
 Chart：该文件夹用于存放绘制出的图表的html源码。
